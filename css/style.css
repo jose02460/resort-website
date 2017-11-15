@@ -1,11 +1,22 @@
 h1 {
-
+  font-style: oblique;
+  color: black;
+  border-style: groove;
+  border-color: blue;
 }
 
 p {
-
+  color: purple;
 }
 
 ul {
-  
+border-style:  solid;
+border-color: pink;
+border-width: thin;
+border-top-color: inherit;
+
+}
+
+body {
+  background-color: lightgreen;
 }
